@@ -1,9 +1,9 @@
 # Name: Алексей
 # Surname: Шаповалов
 Contact: 
-+ gemail: krasavdhik00@gmail.ru
-+ telephonenumber: +375447317128
-## Now I am studying at the Novopolsky Agrarian and Economic College, I want to learn something new.
++ gmail: krasavdhik00@gmail.ru
++ telephone number: +375447317128
+## Now I am studying at the Novopolsky Agrarian and Economic College, I want to learn something new and find good programming language to me.
 ## At a basic level I know: CSS,HTML and JS
 ``const makeItFunny = (text, n) => {``\
 ``let i = 0;``\
